@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building cloud-native applications using Docker and Kubernetes, implementing CI/CD and GitOps workflows, and automating infrastructure on AWS using Terraform and Ansible.<br>Open-source DevOps and Cloud projects involving Kubernetes, CI/CD automation, GitOps, Infrastructure as Code (Terraform), configuration management (Ansible), and backend APIs.<br>Designing production-ready Kubernetes platforms, Terraform-based AWS infrastructure, and applying SRE practices for scalable systems.<br>Advanced Kubernetes (Helm, scaling, networking), CI/CD and GitOps patterns, Terraform and Ansible for infrastructure automation, and AWS services.<br>Docker, Kubernetes, CI/CD pipelines, GitHub Actions, Jenkins, ArgoCD, Terraform basics, Ansible automation, Node.js & Express APIs, and cloud deployments.<br>I enjoy debugging broken CI/CD pipelines and Kubernetes clusters more than writing new features.<br>
 
 
@@ -15,8 +15,6 @@ Building cloud-native applications using Docker and Kubernetes, implementing CI/
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahul6364&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahul6364&limit=5&theme=dark&combine_all_yearly_contributions=true)
